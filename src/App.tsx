@@ -13,11 +13,11 @@ function App() {
       <div className="app-container">
         <EmployeeInfo employee={employee} />
       </div>
-      <Alerts 
-        grossSalary={employee.grossSalary} 
-        netSalary={employee.netSalary} 
-        deductions={employee.deductions} 
-      />
+        <Alerts 
+          grossSalary={employee.grossSalary} 
+          netSalary={employee.netSalary} 
+          deductions={employee.deductions} 
+        />
     </div>
   );
 }
