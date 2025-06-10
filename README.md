@@ -13,8 +13,8 @@ npm install
 npm run dev
 ```
 ## Notes
-Projet frontend uniquement, sans backend ni authentification
-Réalisé dans le cadre d’un test technique pour démontrer la maîtrise de React, TypeScript et Vite
+- Projet frontend uniquement, sans backend ni authentification
+- Réalisé dans le cadre d’un test technique pour démontrer la maîtrise de React, TypeScript et Vite
 
 ## Structure du projet
 - src/data.ts : données JSON codées en dur
